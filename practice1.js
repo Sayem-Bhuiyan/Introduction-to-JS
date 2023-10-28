@@ -23,3 +23,12 @@ console.log(fruits);
 fruits.pop();
 fruits.push('Watermelon');
 console.log(fruits);
+
+
+// output:
+
+/**
+ * 1
+[ 'Apple', 'Mango', 'Orange' ]       
+[ 'Apple', 'Mango', 'Watermelon' ]  
+ * */ 
